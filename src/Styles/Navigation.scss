@@ -1,0 +1,31 @@
+nav.main{
+    ul{
+        list-style-type: none;
+    }
+    
+    a{
+        display: block;
+        text-decoration: none;
+        color: black;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding: 10px;
+        transition: .2s;
+        
+        &:hover{
+            transform: translateX(20px);
+        }
+        
+        &.active{
+            border-left: 10px lime solid;
+            transform: translateX(0);
+        }
+    }
+    
+    li:nth-child(1) a{ border-left-color: green; }
+    li:nth-child(2) a{ border-left-color: orange; }
+    li:nth-child(3) a{ border-left-color: aquamarine; }
+    li:nth-child(4) a{ border-left-color: red; }
+    li:nth-child(5) a{ border-left-color: limegreen; }
+    li:nth-child(6) a{ border-left-color: crimson; }
+}
