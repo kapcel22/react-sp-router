@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-sp-router/static/css/main.91dbd001.chunk.css",
+    "main.js": "/react-sp-router/static/js/main.0b3f5dd6.chunk.js",
+    "main.js.map": "/react-sp-router/static/js/main.0b3f5dd6.chunk.js.map",
+    "runtime-main.js": "/react-sp-router/static/js/runtime-main.3d8013f2.js",
+    "runtime-main.js.map": "/react-sp-router/static/js/runtime-main.3d8013f2.js.map",
+    "static/js/2.54ca3b36.chunk.js": "/react-sp-router/static/js/2.54ca3b36.chunk.js",
+    "static/js/2.54ca3b36.chunk.js.map": "/react-sp-router/static/js/2.54ca3b36.chunk.js.map",
+    "index.html": "/react-sp-router/index.html",
+    "static/css/main.91dbd001.chunk.css.map": "/react-sp-router/static/css/main.91dbd001.chunk.css.map",
+    "static/js/2.54ca3b36.chunk.js.LICENSE.txt": "/react-sp-router/static/js/2.54ca3b36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d8013f2.js",
+    "static/js/2.54ca3b36.chunk.js",
+    "static/css/main.91dbd001.chunk.css",
+    "static/js/main.0b3f5dd6.chunk.js"
+  ]
+}
